@@ -629,7 +629,7 @@ export default function App() {
         <Paper elevation={1} sx={{ p: 1, mb: 1, mt: 1 }}>
           <Grid container>
             <Grid container item xs={10} justifyContent="flex-start">
-              <h1>Mortgage Manager</h1>
+              <h1>BankCheck.AI</h1>
             </Grid>
           </Grid>
           <p>
@@ -791,18 +791,18 @@ export default function App() {
           <Grid container>
             <Grid container item xs={10} justifyContent="flex-start">
               <p>
-                Mortgage Manager was created by{" "}
+                © by{" "}
                 <a
                   style={{
                     textDecoration: "none",
                     color: "inherit",
                     fontWeight: "bold"
                   }}
-                  href="https://github.com/LukePrior"
+                  href="https://www.bankcheck.ai"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Luke Prior
+                  BankCheck.AI
                 </a>
                 .
               </p>
